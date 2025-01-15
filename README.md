@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**Prog-yassine/Prog-yassine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with skills in [your expertise area]. Here's what I love to do:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [what you're working on].
+- 🌱 I’m learning [technologies you're learning].
+- 💬 Ask me about [topics you can help with].
+- 📫 How to reach me: [your email or LinkedIn profile].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills and Technologies
+
+### Frontend
+- HTML | CSS | JavaScript | React.js
+
+### Backend
+- Node.js | Express | MongoDB | SQL
+
+### Tools
+- Git | VS Code | Postman
+
+---
+
+## 🌐 Let's Connect!
+- 🌍 [Portfolio](https://your-portfolio-link.com)
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🎨 [Behance](https://behance.net/your-profile)
+
+---
+
+Fun fact: [Share something quirky or interesting about yourself here].
