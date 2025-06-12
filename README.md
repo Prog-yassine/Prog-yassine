@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a passionate developer with skills in web and 
 - 🔭 I’m currently studying on engineer university.
 - 💬 Ask me about web and mobile development.
 - 📫 How to reach me: yassineaboutaib11@gmail.com.
-- 😄 Pronouns: She/Her
 
 ## 🌐 Let's Connect!
 - 🌍 [Portfolio](https://ioi_yassine.com)
