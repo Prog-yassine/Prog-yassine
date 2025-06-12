@@ -6,8 +6,6 @@ Welcome to my GitHub profile! I'm a passionate developer with skills in web and 
 - 💬 Ask me about web and mobile development.
 - 📫 How to reach me: yassineaboutaib11@gmail.com.
 
-## 🌐 Let's Connect!
-- 🌍 [Portfolio](https://ioi_yassine.com)
 ---
 
 # 🌐 Languages and Frameworks
